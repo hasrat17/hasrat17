@@ -1,5 +1,5 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![logo](https://github.com/hasrat17/hasrat17/blob/main/chill.gif)
 
 <h1 align="center">Hi 👋, I'm Hasrat</h1>
 <h3 align="center">A passionate Software Developer</h3>
