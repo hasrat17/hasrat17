@@ -22,8 +22,6 @@
 
 - 📫 How to reach me **hasrat407@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1iXHbEkXCZifFiA2tWT1dv4e5yn6djOaPAbH-9_yeovU/edit?usp=sharing](https://docs.google.com/document/d/1iXHbEkXCZifFiA2tWT1dv4e5yn6djOaPAbH-9_yeovU/edit?usp=sharing)
-
 - ⚡ Fun fact **I think I can play Chess better than you**
 
 <h3 align="left">Connect with me:</h3>
