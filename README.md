@@ -12,11 +12,9 @@
 
 - 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **GoLang**
 
 - 👯 I’m looking to collaborate on **any good project**
-
-- 👨‍💻 All of my projects are available at [https://hasrat17.github.io/myportfolio/](https://hasrat17.github.io/myportfolio/)
 
 - 💬 Ask me about **Data Structure and Algorithms**
 
